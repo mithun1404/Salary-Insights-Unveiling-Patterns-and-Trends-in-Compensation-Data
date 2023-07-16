@@ -1,4 +1,5 @@
-# DataVisualisation
+# Salary-Insights-Unveiling-Patterns-and-Trends-in-Compensation-Data
+
 It's a **Data Visualisation** Project to know the relation between Job Roles and Number of Opportunities
 - Dataset used in this Project is downloaded from **Kaggle**
 - This data contains different Job Roles and Number of Opportunities provided to the people
